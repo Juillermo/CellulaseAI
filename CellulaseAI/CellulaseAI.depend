@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1468608037 source:c:\users\guille\juillermo\vida estudiantil\icai\mii 2º (tatung)\research project\cellulase\ai systems\cellulaseai\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<iomanip>
+

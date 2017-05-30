@@ -1,0 +1,23 @@
+System parameters
+Input number: 7
+Hidden number: 4
+Learning coefficient: 0.7
+Regularization parameter: 1.25e-005
+Slope: 1
+Initial Weight: 0.87
+Max train number: 100000
+0 Variable Scaling: offset 5.5, factor 0.1, maximum 5.6
+1 Variable Scaling: offset 0.0075, factor 0.0075, maximum 0.03
+2 Variable Scaling: offset 25, factor 25, maximum 70
+3 Variable Scaling: offset 15, factor 15, maximum 45
+4 Variable Scaling: offset 150, factor 150, maximum 400
+5 Variable Scaling: offset 15, factor 25, maximum 40
+6 Variable Scaling: offset 0.5, factor 1.5, maximum 2
+
+Weights of the hidden layer:
+Neuron0: Bias= -0.347169, Weight0= 0.0285612, Weight1= 0.142806, Weight2= -0.034704, Weight3= 0.146481, Weight4= 0.0426399, Weight5= -0.0287051, Weight6= 0.15715, 
+Neuron1: Bias= 0.315704, Weight0= -0.010227, Weight1= 0.0208577, Weight2= 0.0902657, Weight3= 0.0993094, Weight4= 0.0242719, Weight5= -0.14972, Weight6= 0.114912, 
+Neuron2: Bias= -0.184012, Weight0= 0.108484, Weight1= -0.0846544, Weight2= -0.168418, Weight3= -0.106702, Weight4= 0.104577, Weight5= 0.0677313, Weight6= 0.100725, 
+Neuron3: Bias= -0.733134, Weight0= 0.797329, Weight1= -0.396599, Weight2= 0.132558, Weight3= 0.192412, Weight4= -0.370594, Weight5= -0.11867, Weight6= 1.00043, 
+Weights of the output layer:
+Bias= 2.79614, Weights= -1.85201, 2.69185, -1.27083, 15.9083, 
